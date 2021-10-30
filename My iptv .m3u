@@ -4,10 +4,13 @@
 https://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-tvhd_0
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
-https://snehz5tvnew.herokuapp.com?c=0-9-tvhd_0
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvhd_0
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 http://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-zeetvhd
+
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetvhd
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
 http://istreamiptv.gq/apix/box/falcon.php?uid=hunter2004gaming_452096&ch=23222&e=.m3u8
@@ -154,6 +157,12 @@ https://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
 https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeecinema
 
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeaction
+
+#EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658withlogo_673971588.png",Zee Classic
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-176
+
 #EXTINF:-1 tvg-id="SONY WAH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png",Sony Wah
 http://tv.zaintv.net:80/umItrNBpxF/OTSny8Z9Hw/56369
 
@@ -165,10 +174,10 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 tvg-id="COLORS CINEPLEX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" ,Colors Cineplex HD
 https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
 
-#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN| 9XM" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
+#EXTINF:-1 tvg-id="0-9-131" tvg-name="IN| 9XM" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
 http://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-131
 
-#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN| 9XM" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
+#EXTINF:-1 tvg-id="0-9-131" tvg-name="IN| 9XM" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="0-9-219" tvg-logo="https://www.showboxchannel.com/wp-content/uploads/2021/08/showbox_logo.png",Showbox
@@ -186,7 +195,7 @@ https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTINF:-1 tvg-name="iLove" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png", iLove
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo_895666865.png" ,Zing
+#EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo_895666865.png" ,Zing
 https://sneh-zee5tv-production.up.railway.app/?c=0-9-zing
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -238,7 +247,7 @@ https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u
 #EXTINF:-1 tvg-id="0-9-162" tvg-logo="https://akamaividz.zee5.com/resources/0-9-162/list/386x386/09162republicbharat.png",Republic Bharat
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_2.m3u8
 
-#EXTINF:-1,News 24
+#EXTINF:-1 tvg-id="0-9-206" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-206/channel_web/1170x658withlogo_740756490.png",News24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
