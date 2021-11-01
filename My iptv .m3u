@@ -57,14 +57,8 @@ http://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-
 #EXTINF:-1 tvg-id="291" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png",Sony HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
-#EXTINF:-1 tvg-id="291" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png",Sony HD
-http://tv.zaintv.net:80/umItrNBpxF/OTSny8Z9Hw/56229
-
 #EXTINF:-1 tvg-id="471" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png",Sony Sab HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-
-#EXTINF:-1 tvg-id="471" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png",Sony Sab HD
-http://tv.zaintv.net:80/umItrNBpxF/OTSny8Z9Hw/56233
 
 #EXTINF:-1 tvg-id="474" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png",Sony Pal
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
