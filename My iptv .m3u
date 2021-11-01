@@ -276,6 +276,7 @@ https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://static.epg.best/za/DisneyJunior.za.png",Disney Junior
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network
+http://geoiptv.org:8880/live/248765240526/TVSTARIPTV/325234.m3u8
 
 #EXTINF:-1 tvg-name="Nick" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
 http://tv.zaintv.net:80/umItrNBpxF/OTSny8Z9Hw/111078
