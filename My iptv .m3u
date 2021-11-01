@@ -170,6 +170,9 @@ https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeaction
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-176
 
 #EXTINF:-1 tvg-id="SONY WAH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png",Sony Wah
+http://geoiptv.org:8880/live/248765240526/TVSTARIPTV/325517.m3u8
+
+#EXTINF:-1 tvg-id="SONY WAH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png",Sony Wah
 http://tv.zaintv.net:80/umItrNBpxF/OTSny8Z9Hw/56369
 
 #EXTINF:-1 tvg-id="RISHTEY CINEPLEX" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png",Rishtey Cineplex
