@@ -16,6 +16,9 @@ https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetvhd
 http://geoiptv.org:8880/live/561136786722/TVSTARIPTV/179091.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
+http://bigoiptv.cc:8880/live/125513/760703/179091.m3u8
+
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/3QedX5ur.png",Star Plus
@@ -23,6 +26,9 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/191.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
 http://geoiptv.org:8880/live/561136786722/TVSTARIPTV/179085.m3u8
+
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
+http://bigoiptv.cc:8880/live/125513/760703/179085.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
 http://smartmedia.watch:2086/live/09/09/19776.m3u8
@@ -55,6 +61,9 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 http://geoiptv.org:8880/live/561136786722/TVSTARIPTV/325500.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://bigoiptv.cc:8880/live/125513/760703/325500.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://geoiptv.org:8880/live/561136786722/TVSTARIPTV/179093.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
@@ -80,6 +89,9 @@ https://m-c01-j2apps.s.llnwi.net/hls/0133.Sadhna.in.m3u8
 http://geoiptv.org:8880/live/561136786722/TVSTARIPTV/484401.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN| STAR SPORTS 1 HINDI FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/DE2tvqEA.png",Star Sports 1 HD (Hindi)
+http://bigoiptv.cc:8880/live/125513/760703/521997.m3u8
+
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN| STAR SPORTS 1 HINDI FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/DE2tvqEA.png",Star Sports 1 HD (Hindi)
 http://geoiptv.org:8880/live/561136786722/TVSTARIPTV/179338.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN| STAR SPORTS 1 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/BFuGcuBd.png",Star Sports 1 HD
@@ -91,6 +103,9 @@ http://geoiptv.org:8880/live/561136786722/TVSTARIPTV/179338.m3u8
 #EXTINF:-1 tvg-id="starsportsselect1hd" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MFXo2wv6.png",Star Sports Select 1 HD
 
 #EXTINF:-1 tvg-id="starsportsselect2hd" tvg-name="IN| STAR SPORTS SELECT 2 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/Btx1Sm9p.png",Star Sports Select 2 HD
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
+http://bigoiptv.cc:8880/live/125513/760703/326047.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
 http://smartmedia.watch:2086/live/09/09/19774.m3u8
@@ -106,6 +121,9 @@ http://geoiptv.org:8880/live/561136786722/TVSTARIPTV/179149.m3u8
 
 #EXTINF:-1 tvg-id="utvaction.in" tvg-name="IN| UTV ACTION HD" tvg-logo="https://static.epg.best/in/UTVAction.in.png",UTV Action
 http://geoiptv.org:8880/live/561136786722/TVSTARIPTV/179148.m3u8
+
+#EXTINF:-1 tvg-id="utvaction.in" tvg-name="IN| UTV ACTION HD" tvg-logo="https://static.epg.best/in/UTVAction.in.png",UTV Action
+http://bigoiptv.cc:8880/live/125513/760703/179148.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd2.in" tvg-name="IN| STAR GOLD 2 HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/DuGSR7Rx.png",Star Gold 2
 
