@@ -13,10 +13,10 @@ http://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetvhd
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
-http://opplex.tv:8080/live/zeuszeus/zeuszeus/109949.m3u8
+http://opplex.tv:8080/live/zeuszeus/zeuszeus/66208.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
-http://opplex.tv:8080/live/zeuszeus/zeuszeus/66208.m3u8
+http://opplex.tv:8080/live/zeuszeus/zeuszeus/109949.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
 http://geoiptv.org:8880/live/921176580091/TVSTARIPTV/179091.m3u8
@@ -27,10 +27,10 @@ http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/3QedX5ur.png",Star Plus
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
-http://opplex.tv:8080/live/zeuszeus/zeuszeus/109951.m3u8
+http://opplex.tv:8080/live/zeuszeus/zeuszeus/66171.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
-http://opplex.tv:8080/live/zeuszeus/zeuszeus/66171.m3u8
+http://opplex.tv:8080/live/zeuszeus/zeuszeus/109951.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
 http://212.224.98.209:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
