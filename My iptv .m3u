@@ -13,13 +13,13 @@ http://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetvhd
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
-http://opplex.tv:8080/live/zeuszeus/zeuszeus/66208.m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY3FucfM5f28ca9ivgUZjS8/m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
-http://opplex.tv:8080/live/zeuszeus/zeuszeus/109949.m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVY7swDbxGkvcG2TUc9mCr4/m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
-http://geoiptv.org:8880/live/921176580091/TVSTARIPTV/179091.m3u8
+http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86172.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
@@ -27,16 +27,13 @@ http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/3QedX5ur.png",Star Plus
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
-http://opplex.tv:8080/live/zeuszeus/zeuszeus/66171.m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX04MsOzzK9sPDpKrpjYsV4/m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
-http://opplex.tv:8080/live/zeuszeus/zeuszeus/109951.m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
 http://212.224.98.209:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
-
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
-http://geoiptv.org:8880/live/921176580091/TVSTARIPTV/179085.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MN2n6jtV.png",Star Bharat
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
@@ -61,6 +58,9 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
 #EXTINF:-1 tvg-id="474" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png",Sony Pal
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://dtv21.org:2082/live/Red123_394985/sikXriN2I7/86174.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://212.224.98.196:2200/R-EX/HINDI_COLORS_HD-in/index.m3u8?token=RK
@@ -88,10 +88,7 @@ https://m-c01-j2apps.s.llnwi.net/hls/0133.Sadhna.in.m3u8
 http://212.224.98.208:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN| STAR SPORTS 1 HINDI FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/DE2tvqEA.png",Star Sports 1 HD (Hindi)
-http://geoiptv.org:8880/live/921176580091/TVSTARIPTV/179338.m3u8
-
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN| STAR SPORTS 1 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/BFuGcuBd.png",Star Sports 1 HD
-http://geoiptv.org:8880/live/921176580091/TVSTARIPTV/179348.m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYPf74F1b5MdTbIJ3DdoE1M/m3u8
 
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN| STAR SPORTS 2 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/8azcmU7L.png",Star Sports 2 HD
 
@@ -102,16 +99,16 @@ http://geoiptv.org:8880/live/921176580091/TVSTARIPTV/179348.m3u8
 #EXTINF:-1 tvg-id="starsportsselect2hd" tvg-name="IN| STAR SPORTS SELECT 2 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/Btx1Sm9p.png",Star Sports Select 2 HD
 
 #EXTINF:-1 tvg-id="StarGoldHD.in" tvg-name="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
-http://212.224.98.209:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZT0y763te8DLxIPk0Qdbmg/m3u8
 
 #EXTINF:-1 tvg-id="StarGoldHD.in" tvg-name="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
-http://geoiptv.org:8880/live/921176580091/TVSTARIPTV/179136.m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaTaXo1c11uyRGpHyWPC28Q/m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/ku9iqRjb.png",Star Gold Select HD
-http://geoiptv.org:8880/live/921176580091/TVSTARIPTV/179089.m3u8
+#EXTINF:-1 tvg-id="StarGoldHD.in" tvg-name="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
+http://212.224.98.209:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
 
 #EXTINF:-1 tvg-id="UTV.uk" tvg-name="IN| UTV HD HD" tvg-logo="https://static.epg.best/in/UTV.in.png",UTV HD
-http://opplex.tv:8080/live/zeuszeus/zeuszeus/66185.m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVh_iBrTWVuaBHmpuXzeAmY/m3u8
 
 #EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="IN| UTV MOVIES HD" tvg-logo="https://static.epg.best/in/UTVMovies.in.png",UTV Movies
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
@@ -119,6 +116,10 @@ https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 tvg-id="UTVAction.in" tvg-name="IN| UTV ACTION HD" tvg-logo="https://static.epg.best/in/UTVAction.in.png",UTV Action
 
 #EXTINF:-1 tvg-id="stargoldhd2.in" tvg-name="IN| STAR GOLD 2 HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/DuGSR7Rx.png",Star Gold 2
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdhSUDC_dhmT-36ml6YwI84/m3u8
+
+#EXTINF:-1 tvg-id="stargoldhd2.in" tvg-name="IN| STAR GOLD 2 HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/DuGSR7Rx.png",Star Gold 2
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjW-i3-Y7NykHYE8VNTnYE/m3u8
 
 #EXTINF:-1 tvg-name="STAR MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies
 
@@ -163,9 +164,6 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1 tvg-id="RISHTEY CINEPLEX" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
- 
-#EXTINF:-1 tvg-id="RISHTEY CINEPLEX" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png",Rishtey Cineplex
-http://smartmedia.watch:2086/live/09/09/51919.m3u8
 
 #EXTINF:-1 tvg-id="COLORS CINEPLEX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -261,10 +259,12 @@ https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 #EXTINF:-1 tvg-name="Disney Junior" tvg-logo="https://static.epg.best/za/DisneyJunior.za.png",Disney Junior
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network
-http://opplex.tv:8080/live/zeuszeus/zeuszeus/150478.m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsT3TtQ7sBOyFLXu4_0Mwqro/m3u8
 
 #EXTINF:-1 tvg-name="Nick" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
-http://opplex.tv:8080/live/zeuszeus/zeuszeus/150482.m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVAYvyyMijVT4XeDq_wco4M/m3u8
 
 #EXTINF:-1 tvg-name="POGO" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO
-http://opplex.tv:8080/live/zeuszeus/zeuszeus/150483.m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsd5y6cTfmaPAFi24lYemmqk/m3u8
+
+
