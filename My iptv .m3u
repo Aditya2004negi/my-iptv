@@ -13,9 +13,6 @@ http://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetvhd
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
-http://eurotv.vip:80/live/7676/7676/23068.m3u8
-
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY3FucfM5f28ca9ivgUZjS8/m3u8
@@ -34,15 +31,12 @@ http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX04MsOzzK9sPDpKrpjYsV4/m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
-
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
-http://eurotv.vip:80/live/7676/7676/23068.m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX04MsOzzK9sPDpKrpjYsV4/m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MN2n6jtV.png",Star Bharat
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
@@ -90,25 +84,49 @@ https://m-c01-j2apps.s.llnwi.net/hls/0133.Sadhna.in.m3u8
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYPf74F1b5MdTbIJ3DdoE1M/m3u8
 
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN| STAR SPORTS 2 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/8azcmU7L.png",Star Sports 2 HD
-
-#EXTINF:-1 tvg-name="IN| STAR SPORTS 3" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/OQnbrSip.png",Star Sports 3 
-
-#EXTINF:-1 tvg-id="starsportsselect1hd" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MFXo2wv6.png",Star Sports Select 1 HD
-
-#EXTINF:-1 tvg-id="starsportsselect2hd" tvg-name="IN| STAR SPORTS SELECT 2 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/Btx1Sm9p.png",Star Sports Select 2 HD
-
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaTaXo1c11uyRGpHyWPC28Q/m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsb--w_m0TPhvh-hgjZVIdpc/m3u8
+
+#EXTINF:-1 tvg-name="IN| STAR SPORTS 3" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/OQnbrSip.png",Star Sports 3 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSS1IZS7N4LAOWFVCEUBEkU/m3u8
+
+#EXTINF:-1 tvg-name="IN| STAR SPORTS 3" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/OQnbrSip.png",Star Sports 3 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdV5fLYdzwQO2ELFGG1z64c/m3u8
+
+#EXTINF:-1 tvg-id="starsportsselect1hd" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MFXo2wv6.png",Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUKrI0lsKava9VQ53MDHS2k/m3uu
+
+#EXTINF:-1 tvg-id="starsportsselect2hd" tvg-name="IN| STAR SPORTS SELECT 2 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/Btx1Sm9p.png",Star Sports Select 2 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZz91oe3CfYc2aS5cnCA9_8/m3u8
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZT0y763te8DLxIPk0Qdbmg/m3u8
 
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
+
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaTaXo1c11uyRGpHyWPC28Q/m3u8
+
 #EXTINF:-1 tvg-id="STAR GOLD SELECT HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/ku9iqRjb.png",Star Gold Select HD
-http://opplex.tv:8080/live/1231/1231/66176.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZhUT1u9TMmOpA-lYHQBs2o/m3u8
 
 #EXTINF:-1 tvg-id="UTV.uk" tvg-name="IN| UTV HD HD" tvg-logo="https://snehstream.herokuapp.com/2229",UTV HD
 http://opplex.tv:8080/live/1231/1231/66185.m3u8
@@ -116,7 +134,15 @@ http://opplex.tv:8080/live/1231/1231/66185.m3u8
 #EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="IN| UTV MOVIES HD" tvg-logo="https://static.epg.best/in/UTVMovies.in.png",UTV Movies
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 
+#EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="IN| UTV MOVIES HD" tvg-logo="https://static.epg.best/in/UTVMovies.in.png",UTV Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYCYDu4tUhtvWabt8QCrlao/m3u8
+
 #EXTINF:-1 tvg-id="UTVAction.in" tvg-name="IN| UTV ACTION HD" tvg-logo="https://static.epg.best/in/UTVAction.in.png",UTV Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdQ6-rmL1aET70TOA12iPNA/m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd2.in" tvg-name="IN| STAR GOLD 2 HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/DuGSR7Rx.png",Star Gold 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
