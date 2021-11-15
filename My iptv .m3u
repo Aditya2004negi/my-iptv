@@ -33,7 +33,7 @@ http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/hassan/hassan/109951.m3u8
+http://opplex.tv:8080/live/hassan/hassan/66171.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -96,38 +96,33 @@ https://m-c01-j2apps.s.llnwi.net/hls/0133.Sadhna.in.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/hassan/hassan/109986.m3u8
 
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN| STAR SPORTS 1 HINDI FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/DE2tvqEA.png",Star Sports 1 HD (Hindi)
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/BFuGcuBd.png",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYPf74F1b5MdTbIJ3DdoE1M/m3u8
+http://opplex.tv:8080/live/hassan/hassan/109987.m3u8
 
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN| STAR SPORTS 2 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/8azcmU7L.png",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsb--w_m0TPhvh-hgjZVIdpc/m3u8
-
-#EXTINF:-1 tvg-name="IN| STAR SPORTS 3" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/OQnbrSip.png",Star Sports 3 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsSS1IZS7N4LAOWFVCEUBEkU/m3u8
-
-#EXTINF:-1 tvg-name="IN| STAR SPORTS 3" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/OQnbrSip.png",Star Sports 3 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdV5fLYdzwQO2ELFGG1z64c/m3u8
+http://opplex.tv:8080/live/hassan/hassan/109988.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselect1hd" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MFXo2wv6.png",Star Sports Select 1 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUKrI0lsKava9VQ53MDHS2k/m3uu
+http://opplex.tv:8080/live/hassan/hassan/109993.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselect2hd" tvg-name="IN| STAR SPORTS SELECT 2 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/Btx1Sm9p.png",Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZz91oe3CfYc2aS5cnCA9_8/m3u8
+http://opplex.tv:8080/live/hassan/hassan/109994.m3u8
+
+#EXTINF:-1 tvg-name="IN| STAR SPORTS 3" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/OQnbrSip.png",Star Sports 3 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/hassan/hassan/167577.m3u8
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
 http://opplex.tv:8080/live/hassan/hassan/66178.m3u8
+
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -139,11 +134,6 @@ http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZT0y763te8DLxIPk0Qdbmg/m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaTaXo1c11uyRGpHyWPC28Q/m3u8
 
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
-
 #EXTINF:-1 tvg-id="STAR GOLD SELECT HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/ku9iqRjb.png",Star Gold Select HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/hassan/hassan/66176.m3u8
@@ -153,7 +143,7 @@ http://opplex.tv:8080/live/hassan/hassan/66176.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://opplex.tv:8080/player_api.php?username=1231&password=1231
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZhUT1u9TMmOpA-lYHQBs2o/m3u8
 
-#EXTINF:-1 tvg-id="UTV.uk" tvg-name="IN| UTV HD HD" tvg-logo="https://snehstream.herokuapp.com/2229",UTV HD
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="IN| UTV HD HD" tvg-logo="http://snehstream.herokuapp.com/2229",UTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/hassan/hassan/66185.m3u8
 
@@ -187,7 +177,7 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-id="SONY MAX HD" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png",Sony Max HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://opplex.tv:8080/live/hassan/hassan/66179.m3u8
+http://opplex.tv:8080/live/hassan/hassan/66180.m3u8
 
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
 https://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-tvpictureshd
