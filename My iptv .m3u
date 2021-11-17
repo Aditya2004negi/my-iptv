@@ -14,6 +14,10 @@ https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetvhd
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/1231/1231/66208.m3u8
+
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY3FucfM5f28ca9ivgUZjS8/m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
@@ -21,10 +25,18 @@ http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsY3FucfM5f28ca9ivgUZjS8/m3u8
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVY7swDbxGkvcG2TUc9mCr4/m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/1231/1231/66166.m3u8
+
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/3QedX5ur.png",Star Plus
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/1231/1231/66171.m3u8
 
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN| STAR BHARAT FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/PzPkJbOz.png",Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -93,12 +105,20 @@ https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN| STAR SPORTS 1 HINDI FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/DE2tvqEA.png",Star Sports 1 HD (Hindi)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/1231/1231/109986.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 HINDI HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/BFuGcuBd.png",Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/1231/1231/109987.m3u8
 
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN| STAR SPORTS 2 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/8azcmU7L.png",Star Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/1231/1231/109988.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselect1hd" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/MFXo2wv6.png",Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/1231/1231/109993.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselect2hd" tvg-name="IN| STAR SPORTS SELECT 2 FHD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/Btx1Sm9p.png",Star Sports Select 2 HD
 
@@ -110,11 +130,23 @@ http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/1231/1231/66178.m3u8
+
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/1231/1231/66177.m3u8
+
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZT0y763te8DLxIPk0Qdbmg/m3u8
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaTaXo1c11uyRGpHyWPC28Q/m3u8
+
+#EXTINF:-1 tvg-id="STAR GOLD SELECT HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/ku9iqRjb.png",Star Gold Select HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/1231/1231/66176.m3u8
 
 #EXTINF:-1 tvg-id="STAR GOLD SELECT HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/ku9iqRjb.png",Star Gold Select HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -266,6 +298,8 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
 
 #EXTINF:-1 tvg-id="hungama.in" tvg-name="IN| HUNGAMA TV HD" tvg-logo="https://static.epg.best/in/Hungama.in.png",Hungama TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://opplex.tv:8080/live/1231/1231/150480.m3u8
 
 #EXTINF:-1 tvg-name="Marvel HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Marvel_HQ_logo.svg/1200px-Marvel_HQ_logo.svg.png",Marvel HQ
 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
