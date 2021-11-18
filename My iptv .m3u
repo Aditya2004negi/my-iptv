@@ -4,13 +4,13 @@
 https://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-tvhd_0
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",&TV HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvhd_0
+https://sneh-z5api.herokuapp.com/?c=0-9-tvhd_0
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
 http://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-zeetvhd
 
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png"",Zee TV HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeetvhd
+https://sneh-z5api.herokuapp.com/?c=0-9-zeetvhd
 
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/sdvhjQ4r.png",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -50,7 +50,7 @@ http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="0-9-250" tvg-logo="https://akamaividz.zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png",DD National HD
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-250
+https://sneh-z5api.herokuapp.com/?c=0-9-250
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png",DD National
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_dvr.m3u8
@@ -134,7 +134,7 @@ http://opplex.tv:8080/live/1231/1231/109993.m3u8
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZT0y763te8DLxIPk0Qdbmg/m3u8
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -146,7 +146,7 @@ http://opplex.tv:8080/live/1231/1231/66177.m3u8
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZT0y763te8DLxIPk0Qdbmg/m3u8
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsUzDmhEv4SA6IEud-GX48L4/m3u8
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/reAQZkxa.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -160,7 +160,7 @@ http://opplex.tv:8080/live/1231/1231/66176.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZhUT1u9TMmOpA-lYHQBs2o/m3u8
 
-#EXTINF:-1 tvg-id="UTV.uk" tvg-name="IN| UTV HD HD" tvg-logo="http://snehstream.herokuapp.com/2229",UTV HD
+#EXTINF:-1 tvg-id="UTV.uk" tvg-name="IN| UTV HD HD" tvg-logo="https://snehstream.herokuapp.com/2962",UTV HD
 http://opplex.tv:8080/live/1231/1231/66185.m3u8
 
 #EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="IN| UTV MOVIES HD" tvg-logo="https://static.epg.best/in/UTVMovies.in.png",UTV Movies
@@ -170,7 +170,7 @@ https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYCYDu4tUhtvWabt8QCrlao/m3u8
 
-#EXTINF:-1 tvg-id="UTVAction.in" tvg-name="IN| UTV ACTION HD" tvg-logo="https://static.epg.best/in/UTVAction.in.png",UTV Action
+#EXTINF:-1 tvg-id="UTVAction.in" tvg-name="IN| UTV ACTION HD" tvg-logo="https://snehstream.herokuapp.com/2964",UTV Action
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsdQ6-rmL1aET70TOA12iPNA/m3u8
 
@@ -191,31 +191,31 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 https://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-tvpictureshd
 
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://assets.rstream.me/images/j/lWYvzXvdTw.png",&Pictures HD
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-tvpictureshd
+https://sneh-z5api.herokuapp.com/?c=0-9-tvpictureshd
 
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png",&Pictures
 https://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-pictures
 
 #EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png",&Pictures
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-pictures
+https://sneh-z5api.herokuapp.com/?c=0-9-pictures
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 https://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-zeecinemahd
 
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeecinemahd
+https://sneh-z5api.herokuapp.com/?c=0-9-zeecinemahd
 
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
 https://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-zeecinema
 
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeecinema
+https://sneh-z5api.herokuapp.com/?c=0-9-zeecinema
 
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeaction
+https://sneh-z5api.herokuapp.com/?c=0-9-zeeaction
 
 #EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658withlogo_673971588.png",Zee Classic
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-176
+https://sneh-z5api.herokuapp.com/?c=0-9-176
 
 #EXTINF:-1 tvg-id="SONY WAH" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png",Sony Wah
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
@@ -251,7 +251,7 @@ https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo_895666865.png" ,Zing
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-zing
+https://sneh-z5api.herokuapp.com/?c=0-9-zing
  
  #EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -270,7 +270,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeehindustan" tvg-logo="https://play-lh.googleusercontent.com/YmLU-A_hRbIdDJTn7XrstWZYb4ruDh7cKAWZqCM-mgOPezOtV3hVFpSQNy3bvTPhulU",Zee Hindustan
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-zeehindustan
+https://sneh-z5api.herokuapp.com/?c=0-9-zeehindustan
 
 #EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png",GNT
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
@@ -279,7 +279,7 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 
 #EXTINF:-1,News Nation
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-170
+https://sneh-z5api.herokuapp.com/?c=0-9-170
 
 #EXTINF:-1,India News
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
