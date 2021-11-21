@@ -80,6 +80,10 @@ http://opplex.tv:8080/live/123456aa/123456aa/66167.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://jo123.biz/jweb/m3u8.php?c=Colors_HD&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVmKXFX-4nkf4OK9h08Ktlc/m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
@@ -226,6 +230,7 @@ https://pubads.g.doubleclick.net/ssai/event/6Kd8Myl8RlCnZwTtwHkjwQ/master.m3u8
 https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
 
 #EXTINF:-1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Rishtey Cineplex
+http://jo123.biz/jweb/m3u8.php?c=Rishtey_Cineplex&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="0-9-131" tvg-name="IN| 9XM" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
 http://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-131
@@ -273,13 +278,13 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m
 #EXTINF:-1,TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 
-#EXTINF:-1,News Nation
+#EXTINF: -1 tvg-id="499" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png",News Nation
 https://sneh-z5api.herokuapp.com/?c=0-9-170
 
 #EXTINF:-1,India News
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
 
-#EXTINF:-1,ABP News
+#EXTINF: -1 tvg-id="177" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News 
 https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-logo="https://static.epg.best/in/ZeeNews.in.png",Zee News 
@@ -319,11 +324,23 @@ https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsT3TtQ7sBOyFLXu4_0Mwqro/m3u8
 
 #EXTINF:-1 tvg-name="Nick" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://jo123.biz/jweb/m3u8.php?c=Nick_Hindi&q=1200&e=junk.m3u8
+
+#EXTINF:-1 tvg-name="Nick" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsVAYvyyMijVT4XeDq_wco4M/m3u8
+
+#EXTINF:-1 tvg-name="POGO" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://jo123.biz/jweb/m3u8.php?c=Pogo_Hindi&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-name="POGO" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",POGO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
