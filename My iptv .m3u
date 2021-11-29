@@ -194,32 +194,38 @@ http://opplex.tv:8080/live/123/123/109993.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/123/123/109994.m3u8
 
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png"",Star Gold HD
-http://tv.zaintv.net:80/live/ZkTPjb7KUx/7BY6gUk628/108261.ts
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png",Star Gold HD
+http://sonyiptv.net:8080/live/9/9/199234.m3u8
 
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png"",Star Gold HD
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png",Star Gold HD
 http://starshare.live:8080/live/10191817/10191817/9375.m3u8
 
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png"",Star Gold HD
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png",Star Gold HD
 http://starshare.live:8080/live/10191817/10191817/9375.m3u8
 
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png"",Star Gold HD
-http://tv.zaintv.net:80/live/ZkTPjb7KUx/7BY6gUk628/87742.ts
-
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png"",Star Gold HD
-http://tv.zaintv.net:80/live/ZkTPjb7KUx/7BY6gUk628/56367.ts
-
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png"",Star Gold HD
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png",Star Gold HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://opplex.tv:8080/live/123/123/66178.m3u8
 
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png"",Star Gold HD
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png",Star Gold HD
+http://smartmedia.watch:2086/live/556699/556699/131615.m3u8
+
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png",Star Gold HD
+http://tv.zaintv.net:80/live/ZkTPjb7KUx/7BY6gUk628/108261.ts
+
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png",Star Gold HD
+http://tv.zaintv.net:80/live/ZkTPjb7KUx/7BY6gUk628/87742.ts
+
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png",Star Gold HD
+http://tv.zaintv.net:80/live/ZkTPjb7KUx/7BY6gUk628/56367.ts
+
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png",Star Gold HD
 http://starshare.live:8080/live/10191817/10191817/194.m3u8
 
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png"",Star Gold HD
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png",Star Gold HD
 http://smartmedia.watch:2086/live/556699/556699/19774.m3u8
 
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png"",Star Gold HD
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png",Star Gold HD
 http://starshare.live:8080/live/10191817/10191817/194.m3u8
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" tvg-logo="https://raw.githubusercontent.com/Aditya2004negi/UTV-HD.png/main/Star%20Gold%20HD.png",Star Gold HD
@@ -315,7 +321,7 @@ http://istreamiptv.gq/api1cdn/zee5/z5@tv.m3u8?uid=hunter2004gaming_452096&c=0-9-
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1 tvg-id="SONY MAX2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony Max 2
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Sony_MAX2&q=800&e=junk.m3u8
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
 #EXTINF:-1 tvg-id="COLORS CINEPLEX HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
